@@ -113,6 +113,6 @@
 
 <!-- information profile based on experiences -->
 - ✉️: [liswyuni@gmail.com](liswyuni@gmail.com)
-- more details about my journey in the data field could you read [here](https://www.linkedin.com/in/liswahyuni/recent-activity/all/)
+- You can read more details about my journey in the data field [here](https://www.linkedin.com/in/liswahyuni/recent-activity/all/)
 
-> “Teaching is learning twice.”
+> “To teach well is to learn deeply.”
