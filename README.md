@@ -100,6 +100,10 @@
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" width="72" title="Hugging Face" alt="Hugging Face"/>
       Hugging Face
     </td>
+    <td align="center" width="92">
+      <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" width="72" title="Snowflake" alt="Snowflake"/>
+      Snowflake
+    </td>
   </tr>
 </table>
 
